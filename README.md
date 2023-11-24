@@ -17,7 +17,7 @@
 
 ### Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajutech&layout=compact&langs_count=16&theme=react"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?organization_name=kajutech&layout=compact&langs_count=16&theme=react"/>
 
 
 
