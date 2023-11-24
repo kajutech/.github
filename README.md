@@ -15,9 +15,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kaju.tech)
 
 
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?organization_name=kajutech&layout=compact&langs_count=16&theme=react"/>
-
 
 
